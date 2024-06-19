@@ -11,8 +11,11 @@ Monetary: How much money a customer spends on purchases. High spenders are typic
 By analyzing these three dimensions, the online retail store can categorize customers into various segments, such as:
 
 Top Customers: Recent, frequent purchasers who spend a lot.
+
 Loyal Customers: Regular purchasers with high frequency, though not necessarily recent.
+
 Big Spenders: Customers who spend a lot but purchase less frequently.
+
 At Risk: Customers who used to purchase frequently but haven't bought recently.
 
 
