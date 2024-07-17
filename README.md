@@ -1,22 +1,32 @@
-RFM (Recency, Frequency, Monetary) analysis is a marketing technique used to evaluate and segment a company's customers based on their purchasing behavior. 
+Customer Segmentation Project: UK-Based Online Retail Store
 
-This is an online retail store project, RFM analysis involves the following steps:
+Introduction
 
-Recency: How recently a customer made a purchase. Customers who have purchased more recently are more likely to buy again.
+This project involves analyzing a transactional dataset from a UK-based non-store online retail company, specializing in unique all-occasion gifts. The dataset spans from December 1, 2010, to December 9, 2011, and includes transactions made by both individual customers and wholesalers.
 
-Frequency: How often a customer makes a purchase. Frequent buyers are considered more loyal and engaged.
+Objectives
 
-Monetary: How much money a customer spends on purchases. High spenders are typically more valuable to the business.
+The primary goal of this project is to segment the customer base to enable the company to tailor its marketing strategies effectively for different customer groups. By understanding the distinct segments within their customer base, the company can:
 
-By analyzing these three dimensions, the online retail store can categorize customers into various segments, such as:
+Improve Customer Retention: By identifying loyal customers and understanding their purchasing patterns, the company can create personalized marketing campaigns to retain these customers.
+Increase Sales: By recognizing high-value customers and potential high-value customers, targeted promotions and offers can be developed to boost sales.
+Enhance Customer Satisfaction: By understanding the needs and preferences of different customer segments, the company can improve product offerings and customer service, leading to higher customer satisfaction.
+Approach
+The segmentation will be carried out using various clustering techniques on key customer metrics such as recency, frequency, and monetary value (RFM analysis). The steps involved in the project include:
 
-Top Customers: Recent, frequent purchasers who spend a lot.
+Data Cleaning and Preprocessing: Ensuring the dataset is clean and formatted correctly for analysis.
 
-Loyal Customers: Regular purchasers with high frequency, though not necessarily recent.
+Exploratory Data Analysis (EDA): Gaining insights into the data through visualization and summary statistics.
 
-Big Spenders: Customers who spend a lot but purchase less frequently.
+RFM Analysis: Calculating the recency, frequency, and monetary value for each customer.
 
-At Risk: Customers who used to purchase frequently but haven't bought recently.
+Clustering: Applying clustering algorithm K-means  to segment the customers based on the RFM scores.
+
+Segment Profiling: Interpreting the characteristics of each segment to understand their behavior and preferences.
+
+Strategy Development: Formulating marketing strategies tailored to each customer segment.
+By segmenting the customer base and developing targeted marketing strategies, the company aims to enhance its competitive edge in the online retail market, leading to increased customer loyalty and higher revenues.
+
 
 
 
